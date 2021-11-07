@@ -4,10 +4,10 @@
 <p align="center">
 
 
-  <h1 align="center">MVC Tech Blog</h1>
+  <h1 align="center">21. MERN Challenge: Book Search Engine</h1>
 
   <p align="center">
-    NoSQL MongoDB Social network API - Created by Samantha Peterson
+    21. MERN Challenge: Book Search Engine - Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -76,7 +76,7 @@ Click this link to view the project
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+21. MERN Challenge: Book Search Engine
 
 ### Built With
 
